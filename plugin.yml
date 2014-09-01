@@ -1,0 +1,53 @@
+main: me.elijah.Main
+name: Clash-of-Kits
+version: 1.0
+description: KitPvP Plugin
+commands:
+    me:
+        description: Well, you are you!
+    kit:
+        description: Info about kits.
+    kits:
+        description: Shows you all dem kits.
+    soup:
+        description: Gives you soup!
+    refill:
+        description: Gives you soup!
+    pvp:
+        description: Gives you a kit.
+    archer:
+        description: Gives you a kit.
+    heavy:
+        description: Gives you a kit.
+    poseidon:
+        description: Gives you a kit.
+    blizzard:
+        description: Gives you a kit.
+    specialist:
+        description: Gives you a kit.
+    ninja:
+        description: Gives you a kit.
+    assassin:
+        description: Gives you a kit.
+    kangaroo:
+        description: Gives you a kit.
+    phantom:
+        description: Gives you a kit.
+    viper:
+        description: Gives you a kit.
+    berserker:
+        description: Gives you a kit.
+    wizard:
+        description: Gives you a kit. 
+    souper:
+        description: Gives you a kit.
+    blur:
+        description: Gives you a kit.
+    snail:
+        description: Gives you a kit. 
+    reaper:
+        description: Gives you a kit.  
+    juggernaut:
+        description: Gives you a kit.          
+    gunner:
+        description: Gives you a kit.        
